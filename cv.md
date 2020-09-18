@@ -26,3 +26,28 @@ Average mark-up - 8.6.
 * *Courses*
   * Business Intelligence at EPAM training center (11/2017-01/2018).
   * Business Intelligence Laboratory at EPAM Systems (02/2018-06/2018). 
+
+### *Skill Highlights*
+* Database development 
+* DWH
+* ETL
+* T-SQL
+* MS SQL Server
+* SSIS
+* Performance tuning
+* BI concepts
+* PL/SQL
+* BI Data Visualization
+* Tableau for Data Visualization
+* TIBCO Software Spotfire
+* Emotional Intelligence
+
+### *Languages*
+* Russian – Native
+* English – B1+
+* Polish – A2
+
+### *Tools*
+* MS SQL Server, SSMS, Oracle DB.DWH, Oracle DB.SQL, ETL DEV, Pentaho;
+* Tableau for Data Visualization, Tibco Spotfire;
+* Microsoft BI Platform: Integration, Reporting, and Analysis Services.

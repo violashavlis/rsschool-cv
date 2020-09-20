@@ -1,0 +1,50 @@
+.photo {
+    border-radius: 50%;
+    margin-top: 15px;
+}
+
+.header { 
+    display: flex; 
+    justify-content: center;
+}
+
+.name {
+    margin-top: 80px;
+    margin-left: 70px;
+    text-transform: uppercase;
+}
+
+.h1 {
+    text-align: center;
+}
+
+.list1 {
+    margin: auto;
+    padding-left: 0;
+    list-style: disc;
+    font-size: 21px;
+    line-height: 1.5;
+}
+
+.link {
+    text-decoration: underline;
+    color: black;
+}
+
+.cv {
+    width: 850px;
+    margin: auto;
+    font-family: 'Georgia', serif;
+}
+
+.center {
+    text-align: center;
+    font-size: 21px;
+}
+
+.summary {
+    text-indent: 1.5em;
+    text-align: justify;
+    font-size: 21px; 
+    line-height: 1.5;
+}
